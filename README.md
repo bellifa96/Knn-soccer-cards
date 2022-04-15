@@ -24,7 +24,7 @@ Nous avons étudier la prédiction du nombres de cartons lors d'un match PSG :
    - Par manque de data nous obtenons un score de précision égale a 50%, par conséquent nous avons décider d'utiliser 
    - les datas concernant tout les matchs du championat.
 
-Nous avons étudier la prédiction du nombres de cartons lors d'un match de Ligue 1: 
+Nous avons étudier la prédiction du nombres de cartons lors d'un match de Ligue 1 : 
 ![image](https://user-images.githubusercontent.com/55444750/163552523-6413e5e3-9116-4caf-b1ca-2ae28c15214d.png)
 ![image](https://user-images.githubusercontent.com/55444750/163552534-422d158d-091c-416b-8ed1-aaa7d363a5a9.png)
    - Nous obtenons 90% de taux de précison sur cette prédiction.
